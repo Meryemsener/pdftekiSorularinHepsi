@@ -1,0 +1,82 @@
+Java Dersleri #4 - Java Yazım Kuralları
+Merhaba değerli Kodlama Vakti takipçileri, bu dersimizde Java ile kod
+yazarken dikkat etmemiz gereken kuralları yani Java Yazım ve İsimlendirme
+Kurallarını öğreneceğiz. Peki bu kurallar neden bu kadar önemli ?.
+Çünkü her dilde olduğu gibi Java dilinde de uyulması gerek kurallar
+mevcut. Bu kuralların bazıları Java'ya özel olup, bazıları ise genel
+kod yazarken uymamız gereken kurallardır. Mesela kod yazarken kendimizin
+verdiği isimlendirmelerde "Camel Case" ve "Snake Case" gibi kurallara
+ uyarız. Bunun gibi bir çok yazım kuralı mevcut. Kodlamaya başlamadan
+ önce temel bilgileri kavramaya devam ediyoruz. Yazım Kuralları ve
+  Öneriler:
+
+Kod yazarken nelere dikkat etmeliyiz ?
+Türkçe Karakter Kullanımı
+Harf Duyarlılığı
+Sınıf Adları
+Metot Adları
+Yasaklı Kelimeler Kullanılmaz
+Türkçe Karakter Kullanımı
+Java'da ve bir çok programlama dilinde Türkçe karakter kullanmaktan
+kaçınmalıyız hatta mümkünse hiç kullanmamalıyız. Türkçe karakterler
+başka char setlerine ait olduğu için yazdığımız kodlarda çoğu zaman
+bizlere hata olarak geri dönecektir.
+
+Türkçe Karakterler : ç, ı, ü, ğ, ö, ş, İ, Ğ, Ü, Ö, Ş, Ç
+
+Harf Duyarlılığı
+Java harfe duyarlı bir dildir. Java’da Kodlamavakti ile kodlamavakti
+farklı anlama gelmektedir.Yani bir isimlendirme yaparken büyük ve küçük
+harflere dikkat edilmelidir.
+
+Sınıf Adları
+Java’da sınıf adlarında ismin ilk harfi büyük olmalıdır. Eğer 2 kelimeyi
+birleştirerek bir sınıf adı oluşturursak bu isimlerin baş harfleri büyük
+ olmalıdır. Örnek ; KodlamaVakti
+
+Metot Adları
+Metot adları küçük harfle başlar. Metot adı verilirken iki kelime
+birleştirilecekse ismin başlangıç harfi küçük diğer birleştirilen
+kelimelerin başlangıç harfleri büyük yazılır. Örnek: kodlamaVakti
+
+Java Yasaklı Kelimeler
+Keyword’ler (Yasaklı Kelimeler) Kullanılamaz
+
+abstract assert boolean  break  byte
+case catch char  class  const
+continue default do  double  else
+enum extends final  finally  float
+for goto if  implements  import
+instanceof int interface  long  native
+new package private  protected  public
+return short static  strictfp  super
+switch synchronized this throw  throws
+transient  try  void  volatile  while
+Camel Case Nedir ?
+Camel Case, bir bileşik sözcük içindeki her kelimenin
+ilk sözcük dışında ki sözcüklerin ilk harfleri büyük harflerle
+yazıldığı bir adlandırma kuralıdır. Yazılım geliştiricileri genellikle
+kaynak kodu yazarken "Camel Case" kullanır. Camel Case kullanımı zorunlu
+bir kullanım olmasa da yazılım dilinin jargonudur ve genelde tüm
+yazılımcılar bu kurala uyar. Bu kural sayesinde değişken isimleri
+daha okunur olur.
+
+Örnek : kodlamaVakti, camelCaseKurali, javaDersleriBasliyor
+
+Upper Camel Case Nedir ?
+Upper Camel Case isimlendirme kuralı ise, bileşik bir sözcükteki
+tüm sözcüklerin ilk harflerinin büyük olmasıdır.
+
+Screaming Snake Case
+Bütün harfleri büyük yazılır. Genellikle sabit isimlendirmede kullanılır.
+
+Snake Case
+Kelimeler alt tire (_) ile birbirine bağlanır.
+Upper snake case örnek: Hello_World
+Lower snake case örnek: hello_world
+
+Java'da İsimlendirme Kuralları
+Sınıflar için upper camel case kullanılır. HelloWorld
+Metotlar için lower camel case kullanılır. helloWorld
+Değişkenler için lower camel case kullanılır. helloWorld
+Sabitler için screaming snake case kullanılır. HELLO_WORLD

@@ -1,0 +1,44 @@
+Java'nın Kısa Tarihi ?
+1991 yılında Sun Microsystems şirketi mühendislerinden James Gosling ve
+ 12 arkadaşı Green Project(Yeşil Proje) isimli bir proje geliştirmeye
+  başladılar.
+
+Gömülü Sistemler üzerine çalışan James Gosling ve ekibi başlangıçta
+C ve C++ dillerini kullansalar da bu dillerin geliştirdikleri projeye
+uygun bir dil olmadığını  ve geliştirdikleri proje için yetersiz olduğunu
+görüp yeni bir arayış içine girdiler ve bu sırada “Oak” şimdiki adıyla
+Java dili doğmuş oldu.
+
+Neden Java Kullanmalıyız ? Java'nın Avantajları Nelerdir ?
+1- Basit Olması
+Java’nın yazımı kolaydır. daha okunaklı bir yapısı vardır ve dikkat
+çekicidir. Java geleceğe dönük olarak oluşturulacak yapılarla kullanımı
+kolaylaştırılır, sadeleştirilir ve öğrenmesi kolaydır.
+
+2- Güvenli Olması
+Java programları diğer sistemlere zarar vermez. Bu yüzden daha güvenlidir.
+Java internet uygulamalarına karşı güvenlik denetimi sağlar.
+
+3-Taşınabilir Olması
+Java farkı ortamlarda çalışabilir ve bunun için java run time system
+(JVM) kullanılabilir. (Windows, Linux, Mac)
+
+4-Nesne Yönelimli Olması
+Java'da C++ gibi nesne yönelimlinin özelliklerinden faydalanır.Object
+ Oriented Programming Language
+
+5-Tarafsız Mimariye Sahip
+Java özel makinelere ya da işletim sistemi mimarilerine bağlı değildir.
+Java donanımdan bağımsızdır
+
+6-Yüksek Performanslı Olması
+Bytecode çok iyi optimize edilmiştir. JVM derlenirken çok hızlı çalışır.
+
+Neden Java Öğrenmeliyim ?
+Büyük ve küçük işletmeler, bu dilde yazılmış uygulamalarla
+desteklenmektedir. Bu, yenilikçi bir ticari yazılım türü fikriniz varsa,
+Java muhtemelen sizin için en iyi dildir demektir.
+
+Aynı şey, yeni bir Android uygulaması için harika bir fikriniz varsa
+da bu durum geçerlidir. Çünkü Java, Android geliştiricileri arasında
+ tercih edilen dildir.

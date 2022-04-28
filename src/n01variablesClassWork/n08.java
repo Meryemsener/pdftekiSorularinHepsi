@@ -9,6 +9,8 @@ public class n08 {
          */
 
         //byte, short, integer,long, double, float veri tiplerinin max ve min degerlerini yazdiriniz.
+        int a=12;
+
 
     }
 }

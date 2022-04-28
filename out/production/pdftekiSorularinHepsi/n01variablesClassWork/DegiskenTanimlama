@@ -1,0 +1,36 @@
+Java Değişken Tanımlama ve Kullanımı
+Java'da değişken nasıl tanımlanır soruna cevap aramak için bir örnek
+üzerinden gidelim.
+
+int abc = 25;
+
+Bu komut ile ilk değişkenimizi tanımlamış olduk. Komutu incelediğimizde
+abc isminde türü int ve değeri 25 olan bir değişken tanımlanmıştır.Bu
+değişkenin hafızada nerede tutulduğu ise işletim sistemi tarafından
+belirlenir.Bu komutta belirtiğimiz üzere , bundan sonra programımızda
+kullanacağımız tüm abc değeri 25 olarak algılanacaktır
+
+Java Değişken Tanımlama Yazım Kuralı (Syntax)
+Java'da değişken tanımlamanın kuralı şu şekildedir ,
+
+veriTipi değişkenİsmi = değişkenDeğeri;
+
+İlk önce değişkenin veri tipini ve değişkenin ismini yazarız ve
+aynı matematikteki gibi "=" eşittir ile değerini atarız.
+
+Java Veri Tipleri
+Java'da değişken tanımlamak için belirlenmiş veri tipleri mevcuttur.
+ Java Veri Tipleri Nelerdir ?
+
+Tam Sayılar
+​Byte
+Short
+Integer
+Long
+Ondalıklı Sayılar
+Float
+Double
+Karakterler
+Char
+Mantıksal Değerler
+Boolean
